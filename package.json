@@ -1,0 +1,17 @@
+{
+    "name": "core",
+    "version": "1.0.0",
+    "description": "Collection of Node.JS utilities",
+    "main": "src/index.ts",
+    "scripts": {
+        "build": "tsc"
+    },
+    "keywords": [
+        "utility"
+    ],
+    "author": "CloudRex <cloudrex@outlook.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/node": "^10.12.3"
+    }
+}
